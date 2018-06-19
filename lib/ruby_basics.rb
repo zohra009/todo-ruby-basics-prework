@@ -20,9 +20,9 @@ end
 
 def last_evaluated_value
   "beginner"
-  "Expert"
+  "expert"
 end
 
 def pizza_party
-
+  
 end
